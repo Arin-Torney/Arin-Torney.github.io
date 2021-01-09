@@ -2,6 +2,11 @@
 Readme by Arin Torney  
 ## Info  
 micro.css is a CSS framework which is made for commonly used style by Ishan Kuber. This framework is iseful for education purposes and coding beginners. So go and enjoy this wonderful framework!!!
+## Import the Framework  
+You can either download it from (https://ishankuber.github.io/Micro-CSS/css/micro.css)[Ishan Kuber's website] ( here you will get the lates version download ) or use this in the `head` of your HTML.  
+```HTML
+<link rel="stylesheet" type="text/css" href="https://arin-torney.github.io/imkmicrocss/micro.min.css">
+```  
 ## Cheat Sheet  
 Syntax:
 _extension_-_color_
