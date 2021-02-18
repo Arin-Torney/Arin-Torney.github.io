@@ -12,7 +12,7 @@ C++ is a multipardigm procedural and object-oriented programming language. It is
 #include <iostream> // a c++ header file, available in C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++ for mingw and C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/include on Visual Studio
 using namespace std; // after using this there is no need to declare the std namespace if not used cout will become std::cout and end will become std::endl
 
-int main() { //unlike C you can not use void main() here or else copiler shows error
+int main() { //unlike C you can not use void main() here or else compiler shows error
     cout << "Hello World";
     return 0;
 }
