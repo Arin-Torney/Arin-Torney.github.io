@@ -5,7 +5,7 @@
 * Notepad++  
 * Visual Studio Code  
 ## Introduction  
-C++ is a multipardadigm procedural and object-oriented programming language. It is compiled and high-level even though it can do all low-level things C can do such as writing the kernel of an operating system and it is widely used in game development and Windows development. It executes all commnds very fast and we can allocat memory however we want.  
+C++ is a multipardigm procedural and object-oriented programming language. It is compiled and high-level even though it can do all low-level things C can do such as writing the kernel of an operating system and it is widely used in game development and Windows development. It executes all commnds very fast and we can allocat memory however we want.  
 ## Basic "Hello World"  
 
 ```C++
